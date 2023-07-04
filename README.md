@@ -39,7 +39,3 @@ Once you have installed the required libraries, you can open the notebook in a P
 
 If you would like to contribute to this repository, please fork the repository and create a pull request. Please make sure that your code is well-documented and that it passes all tests.
 
-## License
-
-This repository is licensed under the MIT License.
-
