@@ -7,6 +7,7 @@ This repository contains a notebook with NumPy and Pandas basic operations and v
 * **Pokemon dataset:** This dataset contains information about all 809 Pokemon, including their name, type, stats, and abilities.
 * **Diamond dataset:** This dataset contains information about diamonds, including their price, carat, color, clarity, and cut.
 * **Iris dataset:** This dataset contains information about three species of iris flowers, including their sepal width, sepal length, petal width, and petal length.
+* **Churn dataset:** A telecom call churn dataset is a collection of data that tracks customer behavior and usage patterns over time. This data can be used to identify factors that may contribute to customer churn, such as high monthly bills, poor customer service, or a lack of competitive features.
 
 ## Libraries
 
